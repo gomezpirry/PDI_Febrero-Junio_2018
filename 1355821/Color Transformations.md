@@ -1,6 +1,6 @@
 # Homework Color Transformations
 
-## Application: 
+## Application: 2.5
 
 * The application does not allow to select the path to load and save image (You should use a QFileDialog). The application loads a default path, if the application is run on another pc,  it will not work
 * The application should show all channels of color transformations in separate panels. The user can not see the transformations
@@ -8,7 +8,7 @@
 * To save the image, you use a default path. If the folder "ProcessingImages" doesn't exist, the image will not be saved 
 * You must to improve the code presentation (Many code blocks commented) 
 
-## Color Transformation Algorithms: 
+## Color Transformation Algorithms: 2.0
 
 ### RGB to HSV
 
@@ -28,4 +28,4 @@
     convert->writeImage(temp, "convertHSL.jpg");
     ```   
 
-# Grade: 
+# Grade: 2.3
